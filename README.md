@@ -1,4 +1,4 @@
-# waffle-cloud-nofries
+# waffle-cloud-nofries - Cloud Resume
 multicloud-secure-app
 Overview
 Project architecture Diagram
